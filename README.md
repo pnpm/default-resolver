@@ -1,5 +1,7 @@
 # @pnpm/default-resolver
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/pnpm/default-resolver.svg)](https://greenkeeper.io/)
+
 > pnpm's default package resolver
 
 <!--@shields('npm', 'travis')-->
